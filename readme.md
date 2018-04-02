@@ -13,3 +13,7 @@ Currently there is not much here. This is a list of things that will be here:
 * Monsters ported from NetHack
 * Rules ported from Nethack
 * Internal consistency on the capitalization of nethack
+
+**Dependencies:**
+
+* https://github.com/evanbergeron/DND-5e-LaTeX-Template
