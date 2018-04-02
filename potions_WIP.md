@@ -39,32 +39,61 @@ smoky       cloudy      effervescent  black           golden
 brown       fizzy       dark          white           murky
 
 potions that are SUPER POWERFUL but can still be ported:
+
 gain ability (roll 1d6 for permanent +1 to a stat, blessed = stat of choice, cursed = -1 to random)
+
 gain level (tbh this might be too busted, probably don't want)
 
+
+
 potions that are cool utility and would last for like 1 minute not just a round
+
 monster detection
+
 object detection
+
 greater detection (both of the two above)
+
 speed (already exists?)
+
 levitation (already exists?)
+
 invisibility (already exists?)
+
 see invisible (already exists?)
 
+
+
 more situational potions that are still super FUN
+
 oil (greasespell)
+
 acid (alchemical fire, but acid)
+
 sleep (modified sleep spell with smaller aoe)
+
 blindness (throw splash fuck i cant see shit!)
+
 confusion
+
 hallucination
+
 polymorph (HONESTLY porting nethack polymorph rules to work with dnd 5e will be hard but so rewarding)
+
 restore ability (uhh.... remove curse potion? kinda i guess... but not exactly)
+
 clear potions HEHEHE
+
 sickness
+
 paralysis
+
 ... ^^ some of these would be usable as poisons
 
 
+
+
+
 stuff idk ow to port
+
 gain energy
